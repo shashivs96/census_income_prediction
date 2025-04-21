@@ -51,7 +51,7 @@ The project includes visual exploration of various features in relation to incom
 
 ## Results
 
-- Best accuracy achieved: **0.85** (replace with your actual result)
+- Best accuracy achieved: **0.85** 
 - Most important features: `education`, `hours-per-week`, `marital-status`, etc.
 
 ---
